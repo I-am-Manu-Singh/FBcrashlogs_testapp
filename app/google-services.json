@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "716450259343",
+    "project_id": "fbcrashlogs-testapp",
+    "storage_bucket": "fbcrashlogs-testapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716450259343:android:b67c3764c74e2c99c6ebfa",
+        "android_client_info": {
+          "package_name": "com.neatroots.fbcrashlogs_testapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCqh1p59iY6vJLW--uBqh1nNqJWk7FQwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
